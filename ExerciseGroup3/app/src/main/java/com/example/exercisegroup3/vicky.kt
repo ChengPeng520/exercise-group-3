@@ -1,7 +1,8 @@
 package com.example.exercisegroup3
 
-class Victor {
+class vicky {
     fun f1(){
-        println("加油努力++")
+
+    println("THP101123!!")
     }
 }
